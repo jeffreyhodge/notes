@@ -1,6 +1,6 @@
 # Install windows and set up openssh server and remote desktop server
 
-see this article for using a vm - https://github.com/jeffreyhodge/notes/blob/master/run_windows_in_virtualbox.md
+see this article for using a vm - https://github.com/jeffreyhodge/notes/blob/main/windows/run_windows_in_virtualbox.md
 
 get the evaluation copy:
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
