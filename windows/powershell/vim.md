@@ -1,4 +1,4 @@
-#how to get vim working in powershell or cmd
+# How to get vim working in powershell or cmd
 
 https://www.vim.org/download.php
 

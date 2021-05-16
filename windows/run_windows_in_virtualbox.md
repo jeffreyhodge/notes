@@ -1,4 +1,4 @@
-#Run windows in a virtualbox vm
+# Run windows in a virtualbox vm
 
 see this article for some details, but I modified the steps for newer versions and stuff: https://linuxize.com/post/how-to-install-virtualbox-on-centos-7/
 

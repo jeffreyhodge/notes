@@ -1,4 +1,4 @@
-#Install windows and set up openssh server and remote desktop server
+# Install windows and set up openssh server and remote desktop server
 
 see this article for using a vm - https://github.com/jeffreyhodge/notes/blob/master/run_windows_in_virtualbox.md
 

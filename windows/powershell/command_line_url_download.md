@@ -1,4 +1,4 @@
-# how to simulate wget or curl -O at the powershell command line
+# How to simulate wget or curl -O at the powershell command line
 
 https://superuser.com/questions/25538/how-to-download-files-from-command-line-in-windows-like-wget-or-curl
 
