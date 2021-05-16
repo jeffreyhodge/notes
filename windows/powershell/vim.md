@@ -1,3 +1,5 @@
+#how to get vim working in powershell or cmd
+
 https://www.vim.org/download.php
 
 the windows version runs inside the command window or powershell window
