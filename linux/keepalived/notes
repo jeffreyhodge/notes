@@ -1,0 +1,7 @@
+see sample configs
+adding weight to my vrrp process check script broke the failover for the service, need to figure that out
+
+watch for selinux blocking access to cpu (this may not be an issue)
+
+keepalived uses vrrp which has its own protocol (112) and needs to be allowed in the firewall, see allow script
+vrrp keepalives are sent out via multicast which generally means you can use any IPs in the same vlan, but if multicast is not allowing sending to all addresses in a vlan you will need to make sure the IPs you use are all in the same multicast group
